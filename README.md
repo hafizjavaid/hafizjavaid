@@ -1,7 +1,7 @@
 
 
 
-  <img  align="right" src="https://github.com/hafizjavaid/hafizjavaid/blob/main/me.JPG" height="300"/>
+  <img  align="right" src="https://github.com/hafizjavaid/hafizjavaid/blob/main/hero.webp" height="300"/>
 
 
 
@@ -9,12 +9,13 @@
   
 </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Muhammad Afzaal</h1>
-<h3 align="left">Software Engineer | Designer | Web Developer</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hafiz Javaid Iqbal</h1>
+<h3 align="left">Software Engineer | Frontend Developer</h3>
 <p align="left">
   
-<a href="https://www.linkedin.com/in/engrmafzaalch/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.twitter.com/engrmafzaalch/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akash chowrasia" height="30" width="40" /></a> <a href = "mailto: mafzaal786hr@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hafizjavaid/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+ <a href = "mailto: hafizjaidi786@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+ <a href = "https://www.youtube.com/channel/UCtgU8wMxYl8luRuxx-xW46Q" target="_blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" height="30" width="40" /></a>
 
 </p>
 
@@ -22,21 +23,20 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer and Web Developer 🚀 having an experience of building Web applications with JavaScript / Vuejs / Reactjs / Nodejs and some other cool libraries and frameworks.
+  A passionate Software Engineer and Frontend Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / and some other cool libraries and frameworks.
 
   </em> 
   <br>
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmafzaalch&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="engrmafzaalch" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizjavaid&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="hafizjavaid" /> </p>
 
 
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m experienced with **VueJs** & **NuxtJs**<br>
+✔ I’m experienced with **Javascript** & **VueJs**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Fun fact : *Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
@@ -44,16 +44,15 @@
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
   <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/css.png"> </code>
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code>  
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/js.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code> 
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bootstrap.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bulma.svg"> </code>
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code>
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/tailwin.png"> </code> 
+  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/js.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuejs.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/nuxt-logo.png"> </code>
   <code> <img height="50" src="hhttps://github.com/engrmafzaalch/engrmafzaalch/blob/main/vuetify.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/bv.png"> </code>
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/nodejs.webp"> </code>
    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
@@ -61,11 +60,11 @@
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmafzaalch&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="engrmafzaalch" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizjavaid&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="hafizjavaid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=engrmafzaalch" alt="engrmafzaalch" width="410" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid" alt="hafizjavaid" width="410" /></p>
 
 
-Last Edited on: 08/04/2021
+
+
+Last Edited on: 01/05/2021
