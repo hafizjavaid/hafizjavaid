@@ -1,7 +1,7 @@
 
 
 
-  <img  align="right" src="https://github.com/hafizjavaid/hafizjavaid/blob/main/hero.webp" height="300"/>
+  <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
 
 
 
@@ -62,9 +62,9 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizjavaid&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="hafizjavaid" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid" alt="hafizjavaid" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizjavaid&show_icons=true" alt="hafizjavaid" width="410" /></p>
 
-
+<br />
 
 
 Last Edited on: 01/05/2021
