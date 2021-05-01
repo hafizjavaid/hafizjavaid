@@ -1,7 +1,7 @@
 
 
 
-  <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
+  <img  align="right" src="https://github.com/hafizjavaid/hafizjavaid/blob/main/me.JPG" height="300"/>
 
 
 
