@@ -1,9 +1,4 @@
-
-
-
   <img  align="right" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/hero.webp" height="300"/>
-
-
 
 <p align="center">
   
@@ -19,8 +14,6 @@
 
 </p>
 
-
-
 <p align="left">
   <em>
   A passionate Software Engineer and Frontend Developer 🚀 having an experience of building Web applications with Html / Css / JavaScript / Vuejs / Nuxtjs / Vuetify / and some other cool libraries and frameworks.
@@ -32,14 +25,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizjavaid&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="hafizjavaid" /> </p>
 
-
-
 ✔ I’m experienced with **Javascript** & **VueJs**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram*<br><br><br><br>
- 
+✔ Fun fact : _Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram_<br>
 
 <h3 align="left">Recent Projects</h3>
+<p>
+<em>
+<a href="https://journeybinder.com/" target="_blank">
+Journey Binder 
+</a>
+</em>
+</p>
 <p>
 <em>
 <a href="https://cloud-data.netlify.app/" target="_blank">
@@ -47,8 +44,49 @@ Cloud Data (Multi-color website)
 </a>
 </em>
 </p>
+<p>
+<em>
+<a href="https://shehzad-me.netlify.app/" target="_blank">
+Friend Portfolio (Android Developer)
+</a>
+</em>
+</p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p>
+<em>
+<a href="https://letsgetpackn.com/" target="_blank">
+Scheduler System
+</a>
+</em>
+</p>
+<p>
+<p>
+<em>
+<a href="https://best-hotels.netlify.app/" target="_blank">
+Best Hotels (Practice Project)
+</a>
+</em>
+</p>
+<p>
+<p>
+<em>
+<a href="https://social-medias.netlify.app/" target="_blank">
+Facebook Clone (Light and Dark mode with Authentication)
+</a>
+</em>
+</p>
+<p>
+
+<em>
+<a href="https://perchex.com/" target="_blank">
+Resl Estate Website (Under Development)
+</a>
+</em>
+</p>
+
+<br><br><br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
+
 <p align="left">
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
   <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
@@ -74,6 +112,5 @@ Cloud Data (Multi-color website)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizjavaid&show_icons=true" alt="hafizjavaid" width="410" /></p>
 
 <br />
-
 
 Last Edited on: 01/05/2021
