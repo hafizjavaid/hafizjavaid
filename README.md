@@ -39,6 +39,15 @@
 ✔ Fun fact : *Whenever I'm stuck with problem during coding, I'll be checking my fb and instagram*<br><br><br><br>
  
 
+<h3 align="left">Recent Projects</h3>
+<p>
+<em>
+<a href="https://cloud-data.netlify.app/" target="_blank">
+Cloud Data (Multi-color website)
+</a>
+</em>
+</p>
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
