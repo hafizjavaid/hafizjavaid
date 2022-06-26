@@ -4,7 +4,7 @@
   
 </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hafiz Javaid Iqbal</h1>
+<h1 align="left">Hi, I'm Hafiz Javaid Iqbal</h1>
 <h3 align="left">Software Engineer | Frontend Developer</h3>
 <p align="left">
   
