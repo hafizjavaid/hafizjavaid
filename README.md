@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/hafizjavaid/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: hafizjaidi786@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
  <a href = "https://www.youtube.com/channel/UCtgU8wMxYl8luRuxx-xW46Q" target="_blank"><img align="center" src="https://simpleicons.org/icons/youtube.svg" height="30" width="40" /></a>
+  <a href = "skype:live:.cid.335068330865fe4d?chat" target="_blank"><img align="center" src="https://simpleicons.org/icons/skype.svg" height="30" width="40" /></a>
 
 </p>
 
