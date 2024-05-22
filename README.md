@@ -33,8 +33,8 @@
 <h3 align="left">Recent Projects</h3>
 <p>
 <em>
-<a href="https://journeybinder.com/" target="_blank">
-Journey Binder 
+<a href="http://109.205.183.6/" target="_blank">
+AutoMoor DMS
 </a>
 </em>
 </p>
@@ -49,14 +49,6 @@ Cloud Data (Multi-color website)
 <em>
 <a href="https://shehzad-me.netlify.app/" target="_blank">
 Friend Portfolio (Android Developer)
-</a>
-</em>
-</p>
-
-<p>
-<em>
-<a href="https://letsgetpackn.com/" target="_blank">
-Scheduler System
 </a>
 </em>
 </p>
@@ -76,15 +68,6 @@ Facebook Clone (Light and Dark mode with Authentication)
 </a>
 </em>
 </p>
-<p>
-
-<em>
-<a href="https://perchex.com/" target="_blank">
-Resl Estate Website (Under Development)
-</a>
-</em>
-</p>
-
 <br><br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
