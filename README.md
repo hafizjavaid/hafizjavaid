@@ -33,7 +33,7 @@
 <h3 align="left">Recent Projects</h3>
 <p>
 <em>
-<a href="http://109.205.183.6/" target="_blank">
+<a href="https://automoor.ch/en" target="_blank">
 AutoMoor DMS
 </a>
 </em>
