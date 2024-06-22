@@ -41,30 +41,30 @@ AutoMoor DMS
 </p>
 <p>
 <em>
-<a href="https://appuntamenti-demo.docunque.it/" target="_blank">
+<a href="https://www.docunque.it/" target="_blank">
 Patient / Doctor Management Portal 
 </a>
 </em>
 </p>
 <p>
 <em>
-<a href="https://cloud-data.netlify.app/" target="_blank">
-Cloud Data (Multi-color website)
+<a href="https://rmmmax.com/" target="_blank">
+RMMMax - Maximize your platform tools and time
 </a>
 </em>
 </p>
 <p>
 <em>
-<a href="https://shehzad-me.netlify.app/" target="_blank">
-Friend Portfolio (Android Developer)
+<a href="https://footyamigo.com" target="_blank">
+FootyAmigo
 </a>
 </em>
 </p>
 <p>
 <p>
 <em>
-<a href="https://best-hotels.netlify.app/" target="_blank">
-Best Hotels (Practice Project)
+<a href="https://smartsize.io/" target="_blank">
+Smartsize
 </a>
 </em>
 </p>
