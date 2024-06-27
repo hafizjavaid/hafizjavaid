@@ -77,6 +77,22 @@ Facebook Clone (Light and Dark mode with Authentication)
 </em>
 </p>
 <br><br><br>
+
+![Code stats](https://codestats-readme.wegfan.cn/history-graph/hafizjavaid?width=1000&height=200&timezone=08:00&history_days=30&max_languages=7&grid_color=ffffff&zeroline_color=ffffff&language_colors=[%22cdb4db%22,%22ffc8dd%22,%22ffafcc%22,%22bde0fe%22,%22a2d2ff%22,%22b9fbc0%22,%22fdffb6%22,%22f0e6ef%22,%22b5c99a%22])
+
+<p align="center">
+  <img src="https://wakatime.com/badge/user/56c5d917-4ada-4490-91b8-4e5362e00404.svg?style=flat-square" />
+  <br>
+  <br>
+  <details>
+    <p align="center">
+      <img src="https://api.githubtrends.io/user/svg/hafizjavaid/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+      <img src="https://api.githubtrends.io/user/svg/hafizjavaid/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
+    </p>
+  </details>
+</p>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
