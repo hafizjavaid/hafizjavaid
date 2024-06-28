@@ -79,15 +79,13 @@ Facebook Clone (Light and Dark mode with Authentication)
 <br><br><br>
 
 <p align="center">
-      <img src="https://api.githubtrends.io/user/svg/hafizjavaid/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-      <img src="https://api.githubtrends.io/user/svg/hafizjavaid/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic" />
-      <br>
+     
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
 </p>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
-  <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
+<!--   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
   <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/css.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code> 
@@ -102,7 +100,7 @@ Facebook Clone (Light and Dark mode with Authentication)
    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
-     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code>
+     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code> -->
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
