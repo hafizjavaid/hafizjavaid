@@ -78,10 +78,7 @@ Facebook Clone (Light and Dark mode with Authentication)
 </p>
 <hr>
 
-<p align="center">
-      
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
