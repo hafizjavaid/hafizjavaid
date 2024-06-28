@@ -82,6 +82,9 @@ Facebook Clone (Light and Dark mode with Authentication)
      
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
 </p>
+<p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizjavaid&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="hafizjavaid" /></p>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
@@ -100,14 +103,10 @@ Facebook Clone (Light and Dark mode with Authentication)
    <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/git.webp"> </code>
     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/github.png"> </code>
      <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/gitlab-282507.webp"> </code>
-     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code> -->
+     <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/linux.png"> </code> 
   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizjavaid&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="hafizjavaid" /></p>
+  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizjavaid&show_icons=true" alt="hafizjavaid" width="410" /></p>
 
-<br />
-
-Last Edited on: 01/05/2021
+-->
