@@ -88,7 +88,7 @@ Facebook Clone (Light and Dark mode with Authentication)
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Languages & Tools I Know..._**
 
 <p align="left">
-<!--   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
+<code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/figma.webp"> </code>
   <code><img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/html.png"></code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/css.png"> </code>
   <code> <img height="50" src="https://github.com/engrmafzaalch/engrmafzaalch/blob/main/sass.svg"> </code> 
@@ -109,4 +109,4 @@ Facebook Clone (Light and Dark mode with Authentication)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizjavaid&show_icons=true" alt="hafizjavaid" width="410" /></p>
 
--->
+
