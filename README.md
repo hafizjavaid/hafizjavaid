@@ -12,7 +12,7 @@
 
 <p align="left">
   <em>
-  A passionate Software Engineer and Frontend Developer 🚀 having an experience of building Web applications with Html / Css / TailwindCSS / JavaScript / Vuejs / Nuxtjs / Vuetify / Quasar / React / Nextjs / Typescript and some other cool libraries and frameworks.
+  A passionate Software Engineer and Frontend Developer 🚀 with experience in building Web applications with HTML / CSS / TailwindCSS / JavaScript / Vuejs / Nuxtjs / Vuetify / Quasar / React / Nextjs / Typescript and some other cool libraries and frameworks.
 
   </em> 
   <br>
@@ -22,18 +22,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafizjavaid&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="hafizjavaid" /> </p>
 
 ✔ I’m experienced with **Vuejs / Nuxt**, **React / Next** and **Javascript/Typescript**<br>
-✔ Can also develop MVP level fullstack applications using **Nuxt 3**, **MEVN** and **MERN**<br>
+✔ Can also develop MVP level fullstack applications using **Nuxt 3 / Nuxt 4**, **MEVN** and **MERN**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : _Whenever I'm stuck with problem during coding, I'll be checking my twitter<br>
+✔ Fun fact: _Whenever I'm stuck with a problem during coding, I'll check my Twitter <br>
 
 <h3 align="left">Recent Projects</h3>
-<p>
-<em>
-<a href="https://automoor.ch/en" target="_blank">
-AutoMoor DMS
-</a>
-</em>
-</p>
 <p>
 <em>
 <a href="https://www.docunque.it/" target="_blank">
