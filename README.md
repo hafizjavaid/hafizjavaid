@@ -33,7 +33,7 @@ Try [Supersaas today](https://supersaas.dev)
 ---
 
 
-[<img src="https://essentials.supersaas.dev/supersaas-banner.png">](https://supersaas.dev?ref=hafizjavaid)
+[<img src="https://s3.supersaas.dev/supersaas-banner.png">](https://supersaas.dev?ref=hafizjavaid)
 
 
 <h3 align="left">Recent Projects</h3>
