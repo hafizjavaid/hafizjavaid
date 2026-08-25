@@ -35,6 +35,15 @@ Try [Supersaas today](https://supersaas.dev)
 
 [<img src="https://s3.supersaas.dev/supersaas-banner.png">](https://supersaas.dev?ref=hafizjavaid)
 
+<div align="center">
+  <a href="https://commit-history.com/hafizjavaid">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/hafizjavaid?theme=dark" />
+      <img alt="hafizjavaid's commit history" src="https://commit-history.com/embed/hafizjavaid" />
+    </picture>
+  </a>
+</div>
+
 
 <h3 align="left">Recent Projects</h3>
 <p>
