@@ -85,13 +85,6 @@ Facebook Clone (Light and Dark mode with Authentication)
 </p>
 <hr>
 
-<p>
-    
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=hafizjavaid&layout=compact&langs_count=16" />
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizjavaid&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true" alt="hafizjavaid" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafizjavaid&show_icons=true" alt="hafizjavaid" width="410" /></p>
-
 
 
 
