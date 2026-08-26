@@ -48,6 +48,16 @@ Try [Supersaas today](https://supersaas.dev)
 <h3 align="left">Recent Projects</h3>
 <p>
 <em>
+<a href="https://supersaas.dev/" target="_blank">
+Supersaas
+</a>
+</em>
+<em>
+<a href="https://www.quasarui.com/" target="_blank">
+QuasarUI
+</a>
+</em>
+<em>
 <a href="https://www.docunque.it/" target="_blank">
 Patient / Doctor Management Portal 
 </a>
